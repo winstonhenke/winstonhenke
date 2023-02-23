@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @winstonhenke
-- 👀 I’m interested in DevOps, Crypto, and Salesforce
+Hakuna Matata
 
 <!---
 winstonhenke/winstonhenke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
