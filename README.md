@@ -1,4 +1,4 @@
-Hakuna Matata
+hakuna matata
 
 <!---
 winstonhenke/winstonhenke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
